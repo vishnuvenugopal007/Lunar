@@ -1,10 +1,32 @@
 #content {
   text-align: center;
-  padding-top: 35%;
+  padding-top: 45%;
   color: white;
+  font-family: Lato;
+}
+
+html {
+  height: 100%
 }
 
 body {
-  background: url(https://source.unsplash.com/U2uKrI4lci8);
+  background: url(https://source.unsplash.com/Rr9zn33OMbk);
   background-size: cover;
+  background-position: center;
+  font-family: Lato;
+
 }
+
+hr {
+  width: 600px;
+  border-top: 1px solid #f8f8f8;
+  border-bottom: 1px solid rgba(0,0,0,0.2)
+}
+
+/*
+
+Man alone: https://unsplash.com/@nasa?photo=Yj1M5riCKk4
+surface of the moon: https://unsplash.com/@nasa?photo=jlV2k_Fx0fc
+SpaceX Liftoff: https://unsplash.com/search/rocket?photo=TV2gg2kZD1o
+Forest for the Stars: https://unsplash.com/collections/662440/space?photo=Rr9zn33OMbk
+*/
